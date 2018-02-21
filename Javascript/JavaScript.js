@@ -7,7 +7,7 @@ function closeNav() {
     document.getElementById("nav-side").style.width = "0";
 }
 
-// Displaying Todays date with gym time
+// Displaying Todays date with shop time
 function ourHours() {
     var date = new Date();
     var weekday = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
